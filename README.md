@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @itsisaac19
-- 👀 I’m interested in front-end web development
-- 🌱 I’m currently learning JS
+- 👀 I love solving problems
+- 🌱 I’m currently learning Python and C++
 - 📫 Feel free to email me at isaactsai6@gmail.com
 
 <!---
