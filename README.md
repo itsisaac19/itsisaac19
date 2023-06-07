@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @itsisaac19
-- 👀 I love solving problems
-- 🌱 I’m currently learning Python and C++
-- 📫 Feel free to email me at isaactsai6@gmail.com
+[![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsisaac19&hide=contribs,prs,issues&theme=dark)]()
 
 <!---
 itsisaac19/itsisaac19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
