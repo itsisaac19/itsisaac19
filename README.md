@@ -2,8 +2,9 @@
   <h1>Isaac Tsai</h1>
 </div>
 
-### What you see is what you get.
+<img src="./media/Design_matters.svg">
 
+<div style="font-family: system-ui; font-size: 18px; line-height: 1.2em; text-align: center; margin: 10px 0 20px 0;">Where function performs and form inspires.</div>
 
 <div align="center">
   <a href="mailto:isaactsai6@gmail.com">
