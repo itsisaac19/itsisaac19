@@ -2,7 +2,7 @@
   <h1>Isaac Tsai</h1>
 </div>
 
-<img src="./media/Design_matters.svg">
+<img src="./media/creating-landing-simple@2x.png">
 
 <div style="font-family: system-ui; font-size: 18px; line-height: 1.2em; text-align: center; margin: 10px 0 20px 0;">Where function performs and form inspires.</div>
 
